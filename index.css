@@ -1,0 +1,116 @@
+html{
+    font-size: calc(0.75vh + 0.75vw);
+  }
+body{
+    background-color:rgb(199, 199, 199); 
+   /*background: linear-gradient(to bottom,#58687E 50%,blue 0%);*/
+ }
+.para1{
+    background-color: rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+border-radius: 10px;
+width: 800px;
+}
+.para1 h1{
+    margin-left: 20px;
+    font-size: 30px;
+    padding-top: 10px;
+}
+.para1 p1{
+    margin-left: 20px;
+    margin-right: 200px;
+    font-size: 20px;
+    display: inline-block;
+
+}
+.para1 p2{
+    margin-left: 20px;
+    margin-top: 20px;
+    
+    font-size: 20px;
+    }
+.para2{
+        background-color: rgb(255, 255, 255);
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 40px;
+        height: 80px;
+        border-radius: 10px;
+        width: 800px;
+    }
+    .para2 p3{
+        margin-left: 20px;
+        margin-top: 30px;
+        
+        font-size: 20px;
+        }
+        .para2 p4{
+            margin-left: 20px;
+            margin-top: 20px;
+            
+            font-size: 20px;
+            }
+.but1{
+    background-color: green;
+    cursor: pointer;
+    margin-left: 300px;
+    color: white;
+    border-radius: 5px;
+    border:solid green;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+.but1:hover{
+    background-color: lightgreen;
+}
+.para3{
+    background-color: white;
+    margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 40px;
+        border-radius: 10px;
+        height: 180px;
+        width: 800px;
+}
+.para3 p4{
+    margin-left: 20px;
+    margin-top: 30px;
+    
+    font-size: 20px;
+    }
+    .para3 p5{
+        margin-left: 20px;
+        margin-top: 30px;
+        
+        font-size: 20px;
+        }
+        .para3 p6{
+            margin-left: 20px;
+            margin-top: 30px;
+            
+            font-size: 20px;
+            }
+            .para3 p7{
+                margin-left: 20px;
+                margin-top: 30px;
+                
+                font-size: 20px;
+}
+.para4{
+    background-color: white;
+    margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 100px;
+        border-radius: 10px;
+        height: 40px;
+        width: 800px;
+}
+.para4 p8{
+    
+    margin-right: 60px;
+    font-size: 20px;
+    
+}
+
